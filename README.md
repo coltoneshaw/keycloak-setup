@@ -13,6 +13,7 @@ Set up SAML authentication via Keycloak for Mattermost. You can find the docs [h
 2. Navigate to `localhost:8065` and create an account
 3. Upload your enterprise license. 
 4. Set System Console > Logging > FileInfo to debug (You will thank me later.)
+5. To access Keycloak go to `http://localhost:8080/admin/master/console/`
 
 ## Logins
 
