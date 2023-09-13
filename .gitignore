@@ -1,0 +1,8 @@
+volumes/db
+volumes/mattermost
+
+license.mattermost
+license.txt
+
+
+**/.DS_Store
